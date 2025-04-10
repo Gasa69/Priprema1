@@ -1,0 +1,1 @@
+Navedeni kod ispisuje broj 5.

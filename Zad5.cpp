@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib> // za atoi
+#include <cstdliB>
 
 int main(int argc, char* argv[]) {
     const int max = 10;
